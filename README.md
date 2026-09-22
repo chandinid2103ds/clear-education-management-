@@ -13,14 +13,15 @@ CLEAR is a web-based Quality Education Management System designed to support eff
 - Performance Reports
 - OBE Analysis Dashboard
 
-Student Module
--Student Authentication
--View Assigned Learning Activities
--Participate in Quizzes and Assessments
--Submit Responses
--View Scores and Performance
--Receive Feedback
--AI Learning Assistant for Personalized Learning Support
+### Student Module
+- Student Authentication
+- View Assigned Learning Activities
+- Participate in Quizzes and Assessments
+- Submit Responses
+- View Scores and Performance
+- Receive Feedback
+- AI Learning Assistant for Personalized Learning Support
+
 
 ## Technologies Used
 - HTML5
